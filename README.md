@@ -1,1 +1,2 @@
 # -MyFirstRepository
+I’m Mohammed Ismail Sheriff, a Computer Science and Engineering (AI & ML) student at Jain University, Bangalore. I have a strong interest in Artificial Intelligence, Machine Learning and I enjoy developing intelligent solutions that combine innovation and real-world impact. Currently, I’m expanding my skills through academic projects and independent research to build a solid foundation for a future in AI and data-driven technologies.
